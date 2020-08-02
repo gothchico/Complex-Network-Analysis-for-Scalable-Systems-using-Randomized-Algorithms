@@ -1,0 +1,5 @@
+In order to compile the codes for each measurement you can simple do make in the terminal, and two executables will be generated. These take as an input the same format, in the first line the number of nodes following by the number of edges and in the following lines the edges listed one by one.
+
+The Clustering Coeffecient code will first print the value refered as C in the report and then T.
+
+We also include the graph used in the betweenness centrality algorithm.
